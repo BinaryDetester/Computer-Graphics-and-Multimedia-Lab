@@ -1,4 +1,4 @@
-# Hello Window – Clear Colored (OpenGL + GLFW + GLAD)
+# Clear Colored Window (OpenGL + GLFW + GLAD)
 
 This project is a basic OpenGL application that creates a window using **GLFW**, loads OpenGL functions using **GLAD**, and clears the window with a **cyan background color**.  
 The program also demonstrates keyboard input handling and window resizing.
